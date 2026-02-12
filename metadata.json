@@ -1,0 +1,7 @@
+{
+  "name": "Canarinho Tuner",
+  "description": "Um afinador de violão e guitarra profissional com visual temático em amarelo e preto. Funciona offline com detecção de frequência em tempo real.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
